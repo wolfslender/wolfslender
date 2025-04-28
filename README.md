@@ -57,8 +57,3 @@
 </p>
 
 ---
-
-### 🎨 Background Tech Style
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1604672285627-7b8bbfd0b66b?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjk1MXwwfDF8c2VhY2h8MTl8fHRlY2h8ZW58MHx8fHwxNjg0MTgxMzQ3&ixlib=rb-1.2.1&q=80&w=1080" alt="Tech Background" />
-</p>
