@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Alexis Olivero</h1>
 <h3 align="center">🚀 Senior Frontend Developer | WordPress | Webflow | React | JavaScript</h3>
 
 <p align="center">
@@ -12,7 +12,7 @@
 - 🧠 I’m deeply skilled in **React**, **WordPress**, **Webflow**, **TypeScript**, and **JavaScript**.
 - 🌱 I’m currently advancing my knowledge in **Devops** and **Cloud Infrastructure**.
 - 👨‍💻 Focused on creating **scalable**, **user-centric** web solutions.
-- 📬 Reach me: [youremail@example.com](mailto:youremail@example.com)
+- 📬 Reach me: [PErsonal Email](mailto:olivero_canario@hotmail.com)
 
 ---
 
@@ -26,9 +26,9 @@
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack | Live Link |
 | :------ | :----------- | :--------- | :-------- |
-| **Modern Portfolio Website** | A responsive portfolio website built with Webflow. | Webflow, JavaScript | [View Site](https://your-portfolio-link.com) |
-| **Company Website Redesign** | Redesigned and rebuilt a full WordPress site with a modern UI/UX. | WordPress, ACF, PHP, CSS | [View Site](https://your-company-link.com) |
-| **E-commerce Dashboard** | A custom admin dashboard for an online store built with React. | React, Redux, TailwindCSS | [View Demo](https://your-dashboard-link.com) |
+| **Modern Portfolio Website** | A responsive portfolio website built with React. | React, JavaScript, TailWindCSS, TypeScript | [View Site](https://oliverodev.com/) |
+| **Company Website Redesign** | Redesigned and rebuilt a full WordPress site with a modern WebFlow. | WebFlow, WordPress, ACF, PHP, CSS | [View Site](https://www.cst.pr.gov/) |
+| **E-commerce Dashboard** | A custom admin dashboard for an online store built with Wordpress. | React, JavaScript, Wordpress, Woocommerce | [View Site](https://casitadecuentos.com/) |
 
 ---
 
