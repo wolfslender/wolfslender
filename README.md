@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Passionate+Frontend+Developer;6%2B+years+building+high-impact+web+projects;React%2C+WordPress%2C+Webflow+specialist;Always+learning+and+innovating!" alt="Typing SVG" />
 </p>
 
----
-
 <!-- Portfolio Button at the Top -->
 <p align="center">
   <a href="https://oliverodev.com/" target="_blank">
@@ -43,7 +41,7 @@
 | Project | Description | Tech Stack | Live Link |
 | :------ | :----------- | :--------- | :-------- |
 | **Modern Portfolio Website** | A responsive portfolio website built with React. | React, JavaScript, TailwindCSS, TypeScript | [View Site](https://oliverodev.com/) |
-| **Company Website Redesign** | Redesigned and rebuilt a full company website with WordPress and Webflow. | WordPress, Webflow, ACF, PHP, CSS | [View Site](https://www.cst.pr.gov/) |
+| **Company Website Redesign** | Redesigned and rebuilt a full company website with WordPress and WebFlow. | WordPress, WebFlow, ACF, PHP, CSS | [View Site](https://www.cst.pr.gov/) |
 | **E-commerce Dashboard** | A custom admin dashboard for an online store built with WordPress and WooCommerce. | React, JavaScript, WordPress, WooCommerce | [View Site](https://casitadecuentos.com/) |
 
 ---
@@ -60,17 +58,7 @@
 
 ---
 
-<!-- Background and Styling -->
-<style>
-  body {
-    background: #f5f5f5 url('https://source.unsplash.com/1600x900/?technology,abstract,modern') no-repeat center center fixed;
-    background-size: cover;
-    color: #333;
-  }
-  h1, h3 {
-    color: #fff;
-  }
-  p {
-    font-size: 1.2rem;
-  }
-</style>
+### 🎨 Background Tech Style
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1604672285627-7b8bbfd0b66b?crop=entropy&cs=tinysrgb&fit=max&ixid=MnwzNjk1MXwwfDF8c2VhY2h8MTl8fHRlY2h8ZW58MHx8fHwxNjg0MTgxMzQ3&ixlib=rb-1.2.1&q=80&w=1080" alt="Tech Background" />
+</p>
