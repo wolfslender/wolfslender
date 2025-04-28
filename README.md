@@ -23,21 +23,12 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=github_dark&show_icons=true&count_private=true&hide_border=true&hide_title=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-</p>
+### 🌟 Featured Projects
+| Project | Description | Tech Stack | Live Link |
+| :------ | :----------- | :--------- | :-------- |
+| **Modern Portfolio Website** | A responsive portfolio website built with Webflow. | Webflow, JavaScript | [View Site](https://your-portfolio-link.com) |
+| **Company Website Redesign** | Redesigned and rebuilt a full WordPress site with a modern UI/UX. | WordPress, ACF, PHP, CSS | [View Site](https://your-company-link.com) |
+| **E-commerce Dashboard** | A custom admin dashboard for an online store built with React. | React, Redux, TailwindCSS | [View Demo](https://your-dashboard-link.com) |
 
 ---
 
