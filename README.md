@@ -7,6 +7,15 @@
 
 ---
 
+<!-- Portfolio Button at the Top -->
+<p align="center">
+  <a href="https://oliverodev.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 ### 🌟 About Me
 - 🔭 I’m currently working as a **Senior Frontend Developer**.
 - 🧠 I’m deeply skilled in **React**, **WordPress**, **Webflow**, **TypeScript**, and **JavaScript**.
@@ -30,16 +39,6 @@
 
 ---
 
-### 🚀 Check Out My Portfolio
-
-<p align="center">
-  <a href="https://oliverodev.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
 ### 🌟 Featured Projects
 | Project | Description | Tech Stack | Live Link |
 | :------ | :----------- | :--------- | :-------- |
@@ -58,3 +57,20 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
+
+---
+
+<!-- Background and Styling -->
+<style>
+  body {
+    background: #f5f5f5 url('https://source.unsplash.com/1600x900/?technology,abstract,modern') no-repeat center center fixed;
+    background-size: cover;
+    color: #333;
+  }
+  h1, h3 {
+    color: #fff;
+  }
+  p {
+    font-size: 1.2rem;
+  }
+</style>
