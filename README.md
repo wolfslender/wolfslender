@@ -18,7 +18,14 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress,webflow,git,github,figma,vscode,azure,aws" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,wordpress,webflow,git,github,figma,vscode,azure,aws,python" alt="My Skills" />
+</p>
+
+---
+
+### 🔧 Tools I Work With
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,postman,vercel,netlify,visualstudio,linux,cloudflare,notion" alt="Tools" />
 </p>
 
 ---
