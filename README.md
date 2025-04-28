@@ -12,7 +12,7 @@
 - 🧠 I’m deeply skilled in **React**, **WordPress**, **Webflow**, **TypeScript**, and **JavaScript**.
 - 🌱 I’m currently advancing my knowledge in **Devops** and **Cloud Infrastructure**.
 - 👨‍💻 Focused on creating **scalable**, **user-centric** web solutions.
-- 📬 Reach me: [PErsonal Email](mailto:olivero_canario@hotmail.com)
+- 📬 Reach me: [Personal Email](mailto:olivero_canario@hotmail.com)
 
 ---
 
