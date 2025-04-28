@@ -9,8 +9,8 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working as a **Senior Frontend Developer**.
-- 🧠 I’m deeply skilled in **React**, **WordPress**, **Webflow**, and **JavaScript**.
-- 🌱 I’m currently advancing my knowledge in **Next.js** and **TypeScript**.
+- 🧠 I’m deeply skilled in **React**, **WordPress**, **Webflow**, **TypeScript**, and **JavaScript**.
+- 🌱 I’m currently advancing my knowledge in **Devops** and **Cloud Infrastructure**.
 - 👨‍💻 Focused on creating **scalable**, **user-centric** web solutions.
 - 📬 Reach me: [youremail@example.com](mailto:youremail@example.com)
 
@@ -43,13 +43,10 @@
 
 ### 🌍 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/alexis-olivero" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
+  <a href="https://instagram.com/alexisfit97" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/channel/your-channel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
