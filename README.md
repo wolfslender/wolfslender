@@ -16,7 +16,7 @@
 
 ### 🌟 About Me
 - 🔭 I’m currently working as a **Senior Frontend Developer**.
-- 🧠 I’m deeply skilled in **React**, **WordPress**, **Webflow**, **TypeScript**, and **JavaScript**.
+- 🧠 I’m deeply skilled in **React**, **WordPress**, **Webflow**, **NextJS**, and **TailwindCSS**.
 - ☁️ Expanding my expertise in **DevOps** and **Cloud Infrastructure** (Azure & AWS).
 - 👨‍💻 Focused on creating **scalable**, **user-centric** digital experiences.
 - 📬 Reach me: [olivero_canario@hotmail.com](mailto:olivero_canario@hotmail.com)
