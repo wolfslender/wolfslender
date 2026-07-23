@@ -41,8 +41,6 @@ I combine 11+ years of frontend engineering with cloud infrastructure (AWS, Azur
 
 ---
 
----
-
 ### Tech Stack
 
 <p align="center">
