@@ -9,7 +9,7 @@
   <a href="https://oliverodev.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/wolfslender/Alexis_Olivero_Senior_Frontend_CV.pdf" target="_blank">
+  <a href="https://github.com/wolfslender/wolfslender/raw/main/Alexis_Olivero_Senior_Frontend_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download%20CV-%230D9488.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </p>
@@ -44,8 +44,8 @@ I combine 11+ years of frontend engineering with cloud infrastructure (AWS, Azur
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfslender&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&icon_color=0d9488&text_color=e2e8f0&title_color=5eead4" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfslender&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&text_color=e2e8f0&title_color=5eead4" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wolfslender&show_icons=true&hide_border=true&bg_color=0f172a&icon_color=0d9488&text_color=e2e8f0&title_color=5eead4" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfslender&layout=compact&hide_border=true&bg_color=0f172a&text_color=e2e8f0&title_color=5eead4" alt="Top Languages" height="160" />
 </p>
 
 ---
