@@ -41,13 +41,6 @@ I combine 11+ years of frontend engineering with cloud infrastructure (AWS, Azur
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolfslender&show_icons=true&hide_border=true&bg_color=0f172a&icon_color=0d9488&text_color=e2e8f0&title_color=5eead4" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfslender&layout=compact&hide_border=true&bg_color=0f172a&text_color=e2e8f0&title_color=5eead4" alt="Top Languages" height="160" />
-</p>
-
 ---
 
 ### Tech Stack
