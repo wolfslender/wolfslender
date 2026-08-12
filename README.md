@@ -18,13 +18,24 @@
 
 ### About Me
 
-I architect high-performance, accessible web solutions for US-based companies. At **Co-Active Training Institute** I serve **150K+ weekly users** across 30+ plugins managing a high-traffic WordPress platform. Previously at **Truenorth Corporation** I drove a **25% increase in user retention** and **30% faster page loads** across 15+ Webflow projects. Before that, I built clinical interfaces at **D.MED Healthcare Group** (5,000+ patient users, 95% satisfaction) and led security infrastructure at **DNCD** (35% vulnerability reduction).
+I'm a **Senior Frontend Developer with 8+ years of experience** building responsive, accessible, and production-ready web platforms for government, healthcare, corporate, and global training organizations.
 
-I combine 11+ years of frontend engineering with cloud infrastructure (AWS, Azure) and cybersecurity expertise (CompTIA Security+) to deliver secure, SEO-optimized digital experiences at scale.
+I specialize in **React, Next.js, TypeScript, JavaScript, WordPress, and Webflow**, with additional experience in web performance, accessibility, technical SEO, CMS architecture, API integrations, security, maintenance, and cloud-based delivery.
 
-- 👨‍💻 Currently: **Senior Frontend Developer** @ Co-Active Training Institute (San Rafael, CA — Remote)
-- 🌎 Open to relocate to the USA (I-130 visa in process)
-- 📬 **olivero_canario@hotmail.com** (primary) · contact@oliverodev.com (portfolio)
+At **Co-Active Training Institute**, I support a global WordPress training platform serving a community of **150K+ people across 60+ countries**. My work includes responsive UI, navigation, accessibility, SEO, performance, plugin maintenance, production troubleshooting, and coordination with connected platforms such as Arlo and Moodle.
+
+Previously at **Truenorth Corporation**, I administered the **Puerto Rico Department of Education website for three years**. I created landing pages, published government documents and daily content updates, maintained plugins, implemented website security measures, and supported additional corporate and public-sector projects.
+
+I have also built healthcare interfaces for **D.MED Healthcare Group**, developed web platforms and API integrations at **Cybernetips**, and applied cybersecurity and infrastructure experience at **DNCD**.
+
+I also created **Media Audit**, an independent WordPress plugin featuring batch processing, AJAX workflows, filtering, CSV exports, page-builder integrations, risk scoring, and recoverable cleanup tools.
+
+- 💻 **Focus:** React, Next.js, TypeScript, WordPress and Webflow
+- ♿ **Quality:** Accessibility, responsive design, Core Web Vitals and technical SEO
+- 🔐 **Additional experience:** Web security, Azure, Cloudflare and production maintenance
+- 🌎 **Availability:** Remote roles, international collaboration, freelance projects and relocation opportunities
+- 🔗 **Portfolio:** [oliverodev.com](https://oliverodev.com)
+- 📬 **Email:** [olivero_canario@hotmail.com](mailto:olivero_canario@hotmail.com)
 
 ---
 
